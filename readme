@@ -1,0 +1,32 @@
+１．目的
+  とにかくプログラムの綺麗さや効率の良さなどは考えずやりたいことをやる。そのために必要な知識を付けることが目的で作成しました。
+  現時点(2021/02/18)ではα版1.0です。
+  最終的に1本のゲームとして完成させられればと思っています。
+
+お借りしたもの
+・仕様ツール
+  unity2019.2.17f1
+  blender2.91
+  MikuMikuDance
+
+・モデル
+  湊あくあ 公式配布モデル Ver1.0
+  【Youtube】https://t.co/JLElyrjgQe
+  【Twitter】https://twitter.com/minatoaqua
+  【二次創作ライセンス】https://www.hololive.tv/terms
+
+・モーション
+【MMD】ちょっとした格闘モーション配布１　https://www.nicovideo.jp/watch/sm26049583
+【MMD】移動モーション配布　https://www.nicovideo.jp/watch/sm32092506
+【第17回MMD杯本選】モーション（歩き・走り）配布【フルボイス】　https://www.nicovideo.jp/watch/sm29445973
+【MMD/MMM】汎用モーション集【モーション配布】　https://seiga.nicovideo.jp/seiga/im5938332
+【MMD】ちょっとした格闘モーション配布１　https://www.nicovideo.jp/watch/sm26049583
+
+・素材
+  銃：https://free3d.com/ja/3d-model/halo-4-light-rifle-49251.html
+  ダガー：https://bowlroll.net/file/23776
+
+・参考資料
+  https://gametukurikata.com/ui/statuswindow
+  https://acua-piece.com/post/186042580240/game-audio-with-unity-footsteps
+  他多数
